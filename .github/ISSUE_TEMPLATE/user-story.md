@@ -43,6 +43,7 @@ Good user stories include a clear description of the business value, assumptions
 * Acceptance Criteria and Gherkin Syntax
 
 Acceptance criteria specify the definition of done to avoid misunderstandings about story completion.
+
 The Gherkin syntax ("Given, When, Then") is used to clearly describe the preconditions, actions, and expected outcomes for the story.
 
 * INVEST Acronym for Good Stories

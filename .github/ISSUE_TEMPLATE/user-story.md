@@ -23,6 +23,17 @@ assignees: ''
  ```
 
  ### Sample
+Assumptions and Details
+* We maintain customer emails
+* Customers have opted-in to promotions
+
+Acceptance Criteria
+* Given there are 100 customers in the database
+* And 90 have opted into email promotions
+* When I request the customer email list
+* Then I should see a list of 90 customer emails
+
+ ### Summary
 
 * User Story Definition and Components
 
